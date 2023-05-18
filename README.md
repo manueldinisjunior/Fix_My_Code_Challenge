@@ -1,7 +1,5 @@
 ![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
 
-![Hot-fix](./code.jpeg)
-
 ## Background context
 ```Fix my code``` is a new type of project, where we will jump into an existing code base nd fix it
 
